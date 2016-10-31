@@ -1,6 +1,2 @@
 3
-<<<<<<< HEAD
 3 edit local
-=======
-3 edit WEb
->>>>>>> eb59b91b4a56d4f0e28eb63428947672607ef15d
